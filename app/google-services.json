@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "451991149917",
+    "firebase_url": "https://devweb20241-default-rtdb.firebaseio.com",
+    "project_id": "devweb20241",
+    "storage_bucket": "devweb20241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451991149917:android:bbbe6354eef0fcad0e9cb4",
+        "android_client_info": {
+          "package_name": "br.edu.uniritter.aula224_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451991149917-nm7canu6iampg4gmls93gi1s6oevsqog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffLf9hGjKJxtVPVKUsKIUamnQiKhJQ7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451991149917-nm7canu6iampg4gmls93gi1s6oevsqog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451991149917:android:175debb3a2cea5750e9cb4",
+        "android_client_info": {
+          "package_name": "br.edu.uniritter.bottonnavs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451991149917-nm7canu6iampg4gmls93gi1s6oevsqog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffLf9hGjKJxtVPVKUsKIUamnQiKhJQ7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451991149917-nm7canu6iampg4gmls93gi1s6oevsqog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
